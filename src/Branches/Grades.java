@@ -7,6 +7,8 @@ public class Grades {
 		System.out.println("levels of kumon");
 		System.out.println("test for jenkins");
 		System.out.println("pollscm");
+		System.out.println("test for githubhook trigger");
 	}
 
 }
+
