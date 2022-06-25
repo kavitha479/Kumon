@@ -8,7 +8,9 @@ public class Grades {
 		System.out.println("test for jenkins");
 		System.out.println("pollscm");
 		System.out.println("test for github hook trigger");
+		System.out.println("trigger");
 	}
 
 }
+
 
